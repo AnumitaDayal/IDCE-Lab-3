@@ -1,6 +1,6 @@
 '''
-# Assignment title: Lab 4- Web-scraping Current Weather Conditions
-# Date: 09/13/2019
+# Assignment title: Lab 3- Web-scraping Current Weather Conditions
+# Date: 02/06/2020
 # Description: The script web-scrapes the weather.gov website to extract current weather conditions for a selected location in the U.S.
 # Inputs: Latitude & Longitude in Decimal Degrees
 # Outputs: Current Weather Conditions
